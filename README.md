@@ -20,10 +20,9 @@ This is a Web based appplication developed for study realted based website in in
 - Included the feedback survey from to increase the scope of improvement.
 
 ## Screenshoots
+![home (2)](https://user-images.githubusercontent.com/116786817/205329499-2a7eea33-784f-402c-b0d5-528dafb1218f.png)
 
 
-
-![Home](https://user-images.githubusercontent.com/116786817/205242865-ebf7a43d-fdd7-4fc3-83b4-c05103d23540.png)
 
 
 ### About Us-
@@ -44,8 +43,9 @@ This is a Web based appplication developed for study realted based website in in
 
 ## Study bot-
 
+![Bot (2)](https://user-images.githubusercontent.com/116786817/205329552-f5cfd351-b4d8-427d-ab37-44dd0e751353.png)
 
-![bot](https://user-images.githubusercontent.com/116786817/205243297-5def88fd-8b14-42e2-9180-5eb40d6771ff.png)
+
 
 ## Tech Stack
 
