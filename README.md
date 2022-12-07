@@ -41,11 +41,6 @@ This is a Web based appplication developed for study realted based website in in
 ![Contact](https://user-images.githubusercontent.com/116786817/205242963-2d16acab-bcec-4f89-8588-54de40c5f27d.png)
 
 
-## Study bot-
-
-![Bot (2)](https://user-images.githubusercontent.com/116786817/205329552-f5cfd351-b4d8-427d-ab37-44dd0e751353.png)
-
-
 
 ## Tech Stack
 
