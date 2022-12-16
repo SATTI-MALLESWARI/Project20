@@ -49,6 +49,7 @@ This is a Web based appplication developed for study realted based website in in
 ## Tech Stack
 
 -[Azure(Hosting)]
+
 -HTML
 -CSS
 -Bootstrap
