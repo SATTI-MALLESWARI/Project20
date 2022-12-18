@@ -4,7 +4,7 @@ This is a Web based appplication developed for study realted based website in in
 
 ### This web based study application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills prime,Qess, Github and EY.
 
-** Project link**-https://thankful-mushroom-00f207300.2.azurestaticapps.net/
+**Project link**-https://thankful-mushroom-00f207300.2.azurestaticapps.net/
 
 **Project demo video link**-https://youtu.be/dHt44G4eSxo
 
