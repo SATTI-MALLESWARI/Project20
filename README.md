@@ -18,7 +18,7 @@ This is a Web based appplication developed for study realted based website in in
 - Interactive and responsive UI.
 - Has many graphical and visual innovative affects.
 - Has collection of many web pages including Home, About Us, contact, Menu, Study topics and study related information etc.
-- Users can noabout study information through this website.
+- Users can know about study information through this website.
 - Included the feedback survey from to increase the scope of improvement.
 
 ## Screenshoots
