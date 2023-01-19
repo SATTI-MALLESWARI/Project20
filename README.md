@@ -11,7 +11,7 @@ This is a Web based appplication developed for study realted based website in in
 ## Azure technologies used for project 
 -Static web apps
 
--Azure bot
+-Health bot
 
 ## Futures and Functionalities
 
