@@ -6,7 +6,7 @@ This is a Web based appplication developed for study realted based website in in
 
 **Project link**-https://thankful-mushroom-00f207300.2.azurestaticapps.net/
 
-**Project demo video link**-
+**Project demo video link**-https://youtu.be/4-_x73fPgPQ
 
 ## Azure technologies used for project 
 - Static web apps
