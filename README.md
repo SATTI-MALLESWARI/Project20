@@ -6,12 +6,12 @@ This is a Web based appplication developed for study realted based website in in
 
 **Project link**-https://thankful-mushroom-00f207300.2.azurestaticapps.net/
 
-**Project demo video link**-https://youtu.be/UScqzbALWJU
+**Project demo video link**-
 
 ## Azure technologies used for project 
--Static web apps
+- Static web apps
 
--Health bot
+- Health bot
 
 ## Futures and Functionalities
 
