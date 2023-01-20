@@ -22,8 +22,9 @@ This is a Web based appplication developed for study realted based website in in
 - Included the feedback survey from to increase the scope of improvement.
 
 ## Screenshoots
+![Screenshot (2)](https://user-images.githubusercontent.com/116786817/213703105-5cf89ecc-b248-48bd-b624-5a2d73d9863b.png)
 
-![Home](https://user-images.githubusercontent.com/116786817/206188221-b5685ed2-3981-47fc-9d48-8cd9ab318a85.png)
+
 
 
 
@@ -32,19 +33,37 @@ This is a Web based appplication developed for study realted based website in in
 ### About Us-
 
 
-![About)](https://user-images.githubusercontent.com/116786817/205242912-75db55b8-32c2-4250-b9f3-e251d184c16e.png)
 
+
+![Screenshot (3)](https://user-images.githubusercontent.com/116786817/213703155-2bcc89fc-d2d8-4e42-8a36-3d58a7a5d732.png)
 
 ### Services-
 
 
-![Course](https://user-images.githubusercontent.com/116786817/205242941-96c1a50c-a424-47e6-bdc6-68b625b31d2a.png)
+
+![Screenshot (4)](https://user-images.githubusercontent.com/116786817/213703217-fca448e8-53b4-44dd-bdfa-58d8879d1f6c.png)
 
 ### Contact Us-
 
-![Contact](https://user-images.githubusercontent.com/116786817/205242963-2d16acab-bcec-4f89-8588-54de40c5f27d.png)
 
 
+![Screenshot (5)](https://user-images.githubusercontent.com/116786817/213703285-dcd33348-c2c2-4b54-8180-49f5de438520.png)
+
+
+### healthbot
+
+
+
+![Screenshot (7)](https://user-images.githubusercontent.com/116786817/213703441-7d6d99c6-5b33-4ee9-b985-73d3ff837070.png)
+
+
+
+
+### bot
+
+
+
+![Screenshot (8)](https://user-images.githubusercontent.com/116786817/213703523-40265a3f-2372-4846-881b-606e6b9f0e4d.png)
 
 ## Tech Stack
 
